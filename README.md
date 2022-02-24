@@ -20,7 +20,7 @@ OR
 ```bash
 yarn add jquery-datetimepicker
 ```
-or download [zip](https://github.com/xdan/datetimepicker/releases)
+or download [zip](https://github.com/xdan/datetimepicker/archive/master.zip)
 # datetimepicker
 ==============
 
